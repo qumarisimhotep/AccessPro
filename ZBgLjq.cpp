@@ -1,8 +1,7 @@
-// Комментарий: pz3Mlbn9Lk
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello from CZZLB!" << endl;
+    cout << "Hello from ZBgLjq!" << endl;
     return 0;
 }

@@ -1,6 +1,5 @@
-// Комментарий: yZuPaAT95B
-public class Wqakl {
+public class i6lLgb {
     public static void main(String[] args) {
-        System.out.println("Hello from wqaKL!");
+        System.out.println("Hello from i6lLgb!");
     }
 }
