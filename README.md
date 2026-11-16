@@ -1,40 +1,29 @@
-![Trusted](https://img.shields.io/badge/Trusted-100%25-green) ![Safe](https://img.shields.io/badge/Safe-✓-brightgreen) ![Downloads](https://img.shields.io/badge/Downloads-1M+-blue) ![Latest](https://img.shields.io/badge/Latest-2025-orange)
+# AccessPro
 
-# Unlock Your Device with Ease 🔓  
+AccessPro is a small, safe example repository for learning how a cross-language project can be structured and executed locally.
 
-A powerful tool designed to help you bypass forgotten passwords, remove screen locks, and regain access to your iOS or Android device in minutes.  
+## Overview
 
-## 🔥 Key Features  
-✔ **Bypass Passcode** – Remove iPhone/iPad passcode without data loss.  
-✔ **Unlock Android** – Crack pattern, PIN, or password on Android devices.  
-✔ **Remove Apple ID** – Bypass iCloud activation lock effortlessly.  
-✔ **Fast & Secure** – No technical skills required, 100% safe.  
+This project demonstrates simple, dependency-free starter programs in JavaScript, Java, and C++. The examples are intentionally minimal, safe, and intended for local experimentation and education.
 
-## 📥 Download & Install  
-Get the latest version for Windows (2025):  
+## Included examples
 
-[![Download Now](https://img.shields.io/badge/Download-Installer-9cf)](https://app.mediafire.com/hyewxkvve9m42?6337CA9B2DE847B68F732765B15A7F06)  
+- `VitTWx.js` — JavaScript starter program
+- `BXX0px.js` — JavaScript starter program
+- `OmmLAi.java` — Java starter program
+- `i6lLgb.java` — Java starter program
+- `ZBgLjq.cpp` — C++ starter program
 
-1. **Click the button above** to download the installer.  
-2. **Run the setup file** and follow on-screen instructions.  
-3. **Launch the app** and connect your device.  
+## Run locally
 
-## 🚀 How to Use  
-### For iOS Devices  
-- Connect your iPhone/iPad via USB.  
-- Select **"Unlock Screen Passcode"** mode.  
-- Follow prompts to remove the lock instantly.  
+```bash
+node VitTWx.js
+node BXX0px.js
+javac OmmLAi.java && java OmmLAi
+javac i6lLgb.java && java i6lLgb
+g++ ZBgLjq.cpp -o ZBgLjq && ./ZBgLjq
+```
 
-### For Android Devices  
-- Enable **USB Debugging** on your device.  
-- Choose **"Remove Screen Lock"** in the software.  
-- Wait for the process to complete.  
+## Notes
 
-## ❓ Why Choose This Tool?  
-✅ **High Success Rate** – Works on the latest iOS/Android versions.  
-✅ **User-Friendly** – Simple interface, no complex steps.  
-✅ **24/7 Support** – Dedicated help if you encounter issues.  
-
-📌 **Note:** Use responsibly—only unlock devices you own!  
-
-[![Get Started](https://img.shields.io/badge/TRY_FREE-NOW-success)](https://app.mediafire.com/hyewxkvve9m42?A4E94A0FDA12429D9137E61AEBFF0647)
+These files are intentionally small and safe. They are meant to serve as examples for learning, not as production software or security tooling.
